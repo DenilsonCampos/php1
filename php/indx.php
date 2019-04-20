@@ -1,4 +1,4 @@
 <?php
-echo "Meu primeiro <strong>código Php!<strong>";
+echo "Teste Php <strong>código Php!<strong>";
 ?>
 
